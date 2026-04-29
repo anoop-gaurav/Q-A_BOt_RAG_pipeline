@@ -1,4 +1,4 @@
-his project is a Retrieval-Augmented Generation (RAG) chatbot built using a fully local pipeline. It answers history-related questions using custom documents without relying on paid APIs.
+This project is a Retrieval-Augmented Generation (RAG) chatbot built using a fully local pipeline. It answers history-related questions using custom documents without relying on paid APIs.
 
 🧠 Tech Stack
 Embeddings: SentenceTransformers
